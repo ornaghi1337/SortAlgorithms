@@ -7,6 +7,7 @@ L'obiettivo è confrontare le prestazioni di questi algoritmi in termini di temp
 sort/: Contiene il codice sorgente degli algoritmi di ordinamento e degli script per l'analisi.
 
 tempi_di_esecuzione.csv: Contiene i risultati dell'analisi (tempi di esecuzione, grafici, ecc.).
+
 README.md: Documentazione del progetto.
 
 ### Requisiti
