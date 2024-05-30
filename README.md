@@ -6,7 +6,23 @@ L'obiettivo è confrontare le prestazioni di questi algoritmi in termini di temp
 ## Struttura del Progetto
 sort/: Contiene il codice sorgente degli algoritmi di ordinamento e degli script per l'analisi.
 
+* algSort.cpp 
+  ```
+  Corpo delle funzioni sort
+  ```
+* algSort.h
+  ```
+  Dichiarazione delle funzioni
+  ```
+
 tempi_di_esecuzione.csv: Contiene i risultati dell'analisi (tempi di esecuzione, grafici, ecc.).
+
+* l'ordine del CSV è :
+  ```
+  dimensione,selection,insertion,bubble,mergeBU
+  ```
+* per scrivere su file: funzione writeToFile in algSort.cpp
+
 
 README.md: Documentazione del progetto.
 
