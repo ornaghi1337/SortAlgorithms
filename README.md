@@ -11,7 +11,8 @@ README.md: Documentazione del progetto.
 
 ### Requisiti
 
-```Compilatore C++ (ad esempio, g++)
+```
+Compilatore C++ (ad esempio, g++)
 ```
 
 
