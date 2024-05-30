@@ -1,4 +1,4 @@
-## Analisi Empirica degli Algoritmi di Ordinamento
+# Analisi Empirica degli Algoritmi di Ordinamento
 
 Questo progetto esegue un'analisi empirica degli algoritmi di ordinamento: Insertion Sort, Selection Sort, Bubble Sort e Merge Sort, scritti in C++. 
 L'obiettivo è confrontare le prestazioni di questi algoritmi in termini di tempo di esecuzione su dataset di diverse dimensioni e caratteristiche.
@@ -17,6 +17,12 @@ Compilatore C++ (ad esempio, g++)
 ```
 
 
-# Esecuzione
+## Esecuzione
 
 Una volta compilato il progetto, puoi eseguire l'analisi comparativa degli algoritmi di ordinamento
+
+# Crediti
+
+Per renderizzare le grafiche Dear ImGui: https://github.com/ocornut/imgui
+
+Per i grafici (plot) ImPlot: https://github.com/epezent/implot
