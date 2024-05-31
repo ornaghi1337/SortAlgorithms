@@ -3,7 +3,7 @@
 Questo progetto esegue un'analisi empirica degli algoritmi di ordinamento: Insertion Sort, Selection Sort, Bubble Sort e Merge Sort, scritti in C++. 
 L'obiettivo è confrontare le prestazioni di questi algoritmi in termini di tempo di esecuzione su dataset di diverse dimensioni e caratteristiche.
 
-## Struttura del Progetto
+  ## Struttura del Progetto e Libreria
 sort/: Contiene il codice sorgente degli algoritmi di ordinamento e degli script per l'analisi.
 
 * algSort.cpp 
