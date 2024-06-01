@@ -37,6 +37,8 @@ Compilatore C++ (ad esempio, g++)
 
 Una volta compilato il progetto, puoi eseguire l'analisi comparativa degli algoritmi di ordinamento
 
+## Screenshots
+<img src="https://i.imgur.com/DG706Hc.png" alt="AnaliEmpirica">
 # Crediti
 
 Per renderizzare le grafiche Dear ImGui: https://github.com/ocornut/imgui
