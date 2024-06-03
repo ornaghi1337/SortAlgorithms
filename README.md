@@ -39,7 +39,7 @@ Una volta compilato il progetto, puoi eseguire l'analisi comparativa degli algor
 
 ## Screenshots
 <img src="https://i.imgur.com/DG706Hc.png" alt="AnaliEmpirica">
-# Crediti
+## Crediti
 
 Per renderizzare le grafiche Dear ImGui: https://github.com/ocornut/imgui
 
